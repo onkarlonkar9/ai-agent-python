@@ -48,11 +48,10 @@ It’s a complete hands-on journey — from **setting up your first AI agent** t
 
 ## 🧩 Architecture Overview
 
-User Prompt → [Agent] → (LLM + Tools + Memory) → Final Response
 
  ![Screenshot](./img/Screenshot.png)
 
-
+User Prompt → [Agent] → (LLM + Tools + Memory) → Final Response
 
 ### 🌀 Core Components:
 | Component | Description |
@@ -94,6 +93,7 @@ Memory: Vector / JSON-based Storage
 💬 Passionate about AI, DevOps, and Cloud-Native Applications ☁️
 
 "Agents are not just assistants — they are collaborators in intelligence." 🧩
+
 
 
 
