@@ -1,6 +1,7 @@
 ﻿# ai-agent-python
 
- ![Screenshot](./img/Screenshot)
+ ![Screenshot](./img/Screenshot.png)
+
 
 
 
