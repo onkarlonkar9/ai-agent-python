@@ -78,6 +78,8 @@ source venv/bin/activate   # On Windows: venv\Scripts\activate
 # Install dependencies
 pip install -r requirements.txt
 
+```
+
 🧰 Tech Stack
 
 Language: Python 🐍
@@ -93,6 +95,7 @@ Memory: Vector / JSON-based Storage
 💬 Passionate about AI, DevOps, and Cloud-Native Applications ☁️
 
 "Agents are not just assistants — they are collaborators in intelligence." 🧩
+
 
 
 
