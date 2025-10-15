@@ -91,36 +91,9 @@ Tools: Custom Plugins, Code Interpreter, Web Browser
 
 Memory: Vector / JSON-based Storage
 
-💡 Future Enhancements
-
- Add LangGraph or CrewAI integration
-
- Enhance memory persistence using Redis or FAISS
-
- Introduce conversational UI (Streamlit or Next.js frontend)
-
- Support for custom tool plugins
-
-🤝 Contributing
-
-Contributions are welcome!
-Fork the repo, create a branch, make your changes, and submit a pull request.
-
-git checkout -b feature/your-feature-name
-git commit -m "Add your feature"
-git push origin feature/your-feature-name
-
-📜 License
-
-This project is licensed under the MIT License — free to use, modify, and distribute.
-
-✨ Author
-
-Omkar Lonkar
-🌐 GitHub Profile
-
 💬 Passionate about AI, DevOps, and Cloud-Native Applications ☁️
 
 "Agents are not just assistants — they are collaborators in intelligence." 🧩
+
 
 
